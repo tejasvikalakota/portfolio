@@ -1,15 +1,12 @@
-# portfolio
-tejasvikalakota.github.io/portfolio
-
 # Welcome to My GitHub Page
 
 Hello! I'm Tejasvi Kalakota, a data science graduate with experience in the healthcare industry. 
 
 ## About Me
 
-- **Education**:
-  - Master's in Information and Data Science, University of California, Berkeley
-  - Bachelor's in Biological Sciences, Rutgers Unviersity, New Brunswick
+**Education**:
+  - *Master's in Information and Data Science, University of California, Berkeley*
+  - *Bachelor's in Biological Sciences, Rutgers University, New Brunswick*
 
 ## Projects
 

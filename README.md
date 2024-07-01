@@ -5,8 +5,8 @@ Hello! I'm Tejasvi Kalakota, a data science graduate with experience in the heal
 ## About Me
 
 **Education**:
-  - *Master of Information and Data Science* , University of California, Berkeley
-  - *Bachelors Biological Sciences* , Rutgers University, New Brunswick
+  - *Master of Information and Data Science*, University of California, Berkeley
+  - *Bachelors Biological Sciences*, Rutgers University, New Brunswick
 
 ## Projects
 
